@@ -3,13 +3,14 @@
 Apuntes de **XML**, el lenguaje de marcas con el que se describen datos y documentos: cómo se escribe, cómo se valida, cómo se consulta y cómo se transforma. Con la misma estructura que las demás webs: teoría con **ejemplos comprobados con analizadores reales** y ejercicios con soluciones.
 
 !!! info "Cómo está organizado"
-    Tres unidades: **escribir** documentos XML, **validarlos** (DTD y XSD) y **consultar y transformar** (XPath y XSLT), con una última página sobre cómo leerlos desde un programa.
+    Cuatro unidades: **escribir** documentos XML, **validarlos** (DTD y XSD), **consultar y transformar** (XPath y XSLT, y leerlos desde un programa) y, ya en la práctica, **JSON, SAX y espacios de nombres en XPath**.
 
 | Apartado | Contenido |
 |---|---|
 | [U1. Documentos XML](u01/index.md) | Qué es XML, estructura, buen formado, espacios de nombres y herramientas |
 | [U2. Validación](u02/index.md) | Bien formado y válido, DTD y XML Schema (XSD) |
 | [U3. Consultar y transformar](u03/index.md) | XPath, XSLT y XML desde Python, Java y C# |
+| [U4. XML en la práctica](u04/index.md) | XML y JSON, SAX, espacios de nombres en XPath |
 | [Prácticas](u01/practicas.md) | Guía de prácticas |
 
 !!! note "Qué es XML"

@@ -68,3 +68,9 @@ nav:
       - "3.2 XSLT": u03/02-xslt.md
       - "3.3 XML desde un programa": u03/03-programas.md
       - "Ejercicios de la unidad 3": u03/ejercicios.md
+  - "U4 · XML en la práctica":
+      - u04/index.md
+      - "4.1 XML y JSON": u04/01-json.md
+      - "4.2 SAX: analizar sin cargar todo el árbol": u04/02-sax.md
+      - "4.3 Consultar documentos con espacios de nombres": u04/03-namespaces-xpath.md
+      - "Ejercicios de la unidad 4": u04/ejercicios.md
